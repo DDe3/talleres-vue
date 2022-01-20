@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <!--<HelloWorld msg="Hola mundo"/>-->
+  <contador :valor_inicial="-2"/>
   <contador/>
 </template>
 
